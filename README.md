@@ -1,1 +1,2 @@
 # fuzzy-funicular
+добавленный файл
